@@ -1,0 +1,302 @@
+.athletes {
+  background-color: #380e4a;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.athletes .div {
+  background-color: #380e4a;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.athletes .overlap {
+  height: 199px;
+  left: -47px;
+  position: absolute;
+  top: -49px;
+  width: 1487px;
+}
+
+.athletes .rectangle {
+  background-color: #e9624c;
+  height: 175px;
+  left: 47px;
+  position: absolute;
+  width: 100%;
+}
+
+.athletes .logo {
+  height: 199px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.athletes .overlap-group {
+  background-image: url('./static/ellipse-1.svg');
+  background-size: 100% 100%;
+  height: 150px;
+  left: 47px;
+  position: relative;
+  top: 49px;
+  width: 164px;
+}
+
+.athletes .redbacklogo {
+  height: 148px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 141px;
+}
+
+.athletes .navbar {
+  height: 39px;
+  left: 549px;
+  position: absolute;
+  top: 106px;
+  width: 891px;
+}
+
+.athletes .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.athletes .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 578px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.athletes .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 760px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.athletes .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 297px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.athletes .text-wrapper-5 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 130px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.athletes .athlete-profile {
+  height: 195px;
+  left: 106px;
+  position: absolute;
+  top: 239px;
+  width: 585px;
+}
+
+.athletes .overlap-2 {
+  background-image: url('./static/rectangle-2.svg');
+  background-size: 100% 100%;
+  height: 195px;
+  position: relative;
+  width: 573px;
+}
+
+.athletes .p {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 216px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  width: 329px;
+}
+
+.athletes .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 216px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 79px;
+}
+
+.athletes .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 216px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 56px;
+}
+
+.athletes .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 216px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+}
+
+.athletes .div-wrapper {
+  background-color: #ffffff;
+  border-radius: 81px/80.5px;
+  height: 161px;
+  left: 20px;
+  position: absolute;
+  top: 15px;
+  width: 162px;
+}
+
+.athletes .text-wrapper-9 {
+  color: #303030;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 73px;
+}
+
+.athletes .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 216px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.athletes .overlap-wrapper {
+  height: 195px;
+  left: 761px;
+  position: absolute;
+  top: 239px;
+  width: 585px;
+}
+
+.athletes .overlap-3 {
+  background-image: url('./static/rectangle-2.svg');
+  background-size: 100% 100%;
+  height: 195px;
+  position: relative;
+  width: 573px;
+}
+
+.athletes .athlete-profile-2 {
+  height: 453px;
+  left: 761px;
+  position: absolute;
+  top: 479px;
+  width: 585px;
+}
+
+.athletes .overlap-4 {
+  background-image: url('./static/rectangle-2.svg');
+  background-size: 100% 100%;
+  height: 195px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 573px;
+}
+
+.athletes .overlap-group-wrapper {
+  height: 195px;
+  left: 0;
+  position: absolute;
+  top: 258px;
+  width: 585px;
+}
+
+.athletes .overlap-group-2 {
+  background-image: url('./static/rectangle-2.svg');
+  background-size: 100% 100%;
+  height: 195px;
+  position: relative;
+  width: 573px;
+}
+
+.athletes .athlete-profile-3 {
+  height: 453px;
+  left: 106px;
+  position: absolute;
+  top: 479px;
+  width: 585px;
+}
+
+.athletes .overlap-5 {
+  background-image: url('./static/rectangle-2.svg');
+  background-size: 100% 100%;
+  height: 195px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 573px;
+}
+
+.athletes .overlap-group-3 {
+  background-image: url('./static/rectangle-2.svg');
+  background-size: 100% 100%;
+  height: 195px;
+  position: relative;
+  width: 573px;
+}
